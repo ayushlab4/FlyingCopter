@@ -63,7 +63,7 @@
 
 <details open="">
 <summary>
- 📔 Personal Portfoilo:
+ 📔 FlyingCopter:
 </summary>
 <br>
 <p align="center">
